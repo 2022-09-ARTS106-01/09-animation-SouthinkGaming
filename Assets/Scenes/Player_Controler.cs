@@ -5,8 +5,7 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour {
 
     private Animator animator;
-    
-    // This for initialization
+    // This is for initialization
     void Start() {
         animator = this.GetComponent<Animator>();
     }
