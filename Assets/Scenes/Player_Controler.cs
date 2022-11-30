@@ -7,7 +7,7 @@ public class playerController : MonoBehaviour
 
     private Animator animator;
 
-    // Use this for initialization
+    // This is for initialization
     void Start()
     {
         animator = this.GetComponent<Animator>();
