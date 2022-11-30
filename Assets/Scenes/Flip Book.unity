@@ -134,6 +134,8 @@ GameObject:
   - component: {fileID: 256888024}
   - component: {fileID: 256888023}
   - component: {fileID: 256888022}
+  - component: {fileID: 256888025}
+  - component: {fileID: 256888026}
   m_Layer: 0
   m_Name: Professor
   m_TagString: Untagged
@@ -228,6 +230,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &256888025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256888021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097772d3225c7c649ae3256407be00a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &256888026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256888021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097772d3225c7c649ae3256407be00a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1087522016
 GameObject:
   m_ObjectHideFlags: 0
